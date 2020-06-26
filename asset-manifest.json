@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gerenciadorTarefas/static/css/main.2154059e.chunk.css",
+    "main.js": "/gerenciadorTarefas/static/js/main.e41f5454.chunk.js",
+    "main.js.map": "/gerenciadorTarefas/static/js/main.e41f5454.chunk.js.map",
+    "runtime-main.js": "/gerenciadorTarefas/static/js/runtime-main.54c1a64f.js",
+    "runtime-main.js.map": "/gerenciadorTarefas/static/js/runtime-main.54c1a64f.js.map",
+    "static/js/2.1144ecfe.chunk.js": "/gerenciadorTarefas/static/js/2.1144ecfe.chunk.js",
+    "static/js/2.1144ecfe.chunk.js.map": "/gerenciadorTarefas/static/js/2.1144ecfe.chunk.js.map",
+    "index.html": "/gerenciadorTarefas/index.html",
+    "precache-manifest.bc6d341ce9deaa7edac6db22fffe0787.js": "/gerenciadorTarefas/precache-manifest.bc6d341ce9deaa7edac6db22fffe0787.js",
+    "service-worker.js": "/gerenciadorTarefas/service-worker.js",
+    "static/css/main.2154059e.chunk.css.map": "/gerenciadorTarefas/static/css/main.2154059e.chunk.css.map",
+    "static/js/2.1144ecfe.chunk.js.LICENSE.txt": "/gerenciadorTarefas/static/js/2.1144ecfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c1a64f.js",
+    "static/js/2.1144ecfe.chunk.js",
+    "static/css/main.2154059e.chunk.css",
+    "static/js/main.e41f5454.chunk.js"
+  ]
+}
